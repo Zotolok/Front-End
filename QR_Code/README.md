@@ -78,6 +78,7 @@ I'd like to continue working on the media query area, since there are still some
 
 - [Google Fonts](https://fonts.google.com/) - This helped me to change the default fonts.
 - [Responsinator](http://www.responsinator.com/) - This helped me to see how the page looked like in different devices.
+- [Rapidtables](https://www.rapidtables.org/web/tools/window-size.html) -  This helped to know the size of my browser screen while programming.
 
 
 ## Author
