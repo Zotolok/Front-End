@@ -20,7 +20,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+#### Web page view
 ![image](https://github.com/Zotolok/Front-End/assets/66386227/c0db2109-e66d-4e77-a261-115400ee59ce)
+
+#### Mobile view
+![image](https://github.com/Zotolok/Front-End/assets/66386227/c45aa3dd-dd33-42ff-867e-718b829b1bc3)
+![image](https://github.com/Zotolok/Front-End/assets/66386227/32e60950-25b7-437c-b940-f4151d6a36a2)
+![image](https://github.com/Zotolok/Front-End/assets/66386227/edefaa12-50b6-4a0d-8637-8d546c2ce889)
+
+#### iPad view
+![image](https://github.com/Zotolok/Front-End/assets/66386227/f9e36aee-aadc-4943-9b14-858a84ef0ac5)
+![image](https://github.com/Zotolok/Front-End/assets/66386227/6399a4d5-644f-4ff2-9443-6f4f419292cb)
+
 
 ![](./screenshot.jpg)
 
