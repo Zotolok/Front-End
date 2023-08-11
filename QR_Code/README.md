@@ -33,8 +33,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub - CSS]([https://your-solution-url.com](https://github.com/Zotolok/Front-End/blob/79ded6c7de0d819ec3fb243d4e245234bdb38b09/QR_Code/CSS/styles.css))
+- Live Site URL: [Web Site]([https://your-live-site-url.com](https://qrcode-amber-mu.vercel.app/))
 
 ## My process
 
