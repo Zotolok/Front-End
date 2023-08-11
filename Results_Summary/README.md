@@ -57,7 +57,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 This is just a static web page built with HTML and CSS. Though, my major learnings here were the correct implementation (or what I think it is) of Flexbox and CSS Grid to organize the elements in the way I wanted; a better use of the media queries; and I learned a new way to center a div label in the center of a page.
 
 To see how you can add code snippets, see below:
-#### Put div in the cener of a page.
+#### Put div in the center of a page.
 ```css
 .example1{
   height: 100vh;
