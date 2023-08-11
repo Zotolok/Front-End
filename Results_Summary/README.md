@@ -79,7 +79,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-I think this project was a good practice. I enhanced as much as I could with my current knowledge. So, I think that I just need to review it to understanding everything I did and used to build the project.
+I think this project was a good practice. I enhanced it as much as I could with my current knowledge. So, I think that I just need to review it to fully understand everything I did and used to build the project.
 
 
 ### Useful resources
