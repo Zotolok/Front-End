@@ -36,7 +36,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub - CSS](https://github.com/Zotolok/Front-End/blob/685a48009be79676ab7cbf41526a05bfdcd01ce8/Results_Summary/CSS/styles.css)
 - Live Site URL: [Web Site](https://result-sum-red.vercel.app/)
 
 ## My process
@@ -54,24 +54,32 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### What I learned
 
-This is one of my first projects regarding web development. My major learnings here were how to center elements in a page, how to use media queries to manipulate elements depending on the windows width or heigth, and the implementation of new fonts and borders in CSS.
+This is just a static web page built with HTML and CSS. Though, my major learnings here were the correct implementation (or what I think it is) of Flexbox and CSS Grid to organize the elements in the way I wanted; a better use of the media queries; and I learned a new way to center a div label in the center of a page.
 
 To see how you can add code snippets, see below:
-#### Center elements
+#### Put div in the cener of a page.
 ```css
-
+.example1{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
 }
 ```
-#### Use media queries to manipulate the view in a portrait view in a mobile device
+#### Hover active just if you are not in a mobil device
 ```css
-
+@media (hover: hover){
+  .example2:hover{
+    background: black;
+    color: white;
+  }
 }
 ```
 
 
 ### Continued development
 
-I'd like to continue working on the media query area, since there are still some errors I've noticed while working on the margins of the white rectangule. I want it to be separated from the bottom part and the upper equally.
+I think this project was a good practice. I enhanced as much as I could with my current knowledge. So, I think that I just need to review it to understanding everything I did and used to build the project.
 
 
 ### Useful resources
@@ -79,7 +87,7 @@ I'd like to continue working on the media query area, since there are still some
 - [Google Fonts](https://fonts.google.com/) - This helped me to change the default fonts.
 - [Responsinator](http://www.responsinator.com/) - This helped me to see how the page looked like in different devices.
 - [Rapidtables](https://www.rapidtables.org/web/tools/window-size.html) -  This helped to know the size of my browser screen while programming.
-- 
+- [Vercel](https://vercel.com/home) - This web site helped me to upload my static project to the cloud for free.
 
 
 ## Author
