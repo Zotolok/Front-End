@@ -34,8 +34,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [GitHub - CSS](https://github.com/Zotolok/Front-End/blob/685a48009be79676ab7cbf41526a05bfdcd01ce8/Results_Summary/CSS/styles.css)
-- Live Site URL: [Web Site](https://result-sum-red.vercel.app/)
+- Solution URL: [GitHub - CSS]()
+- Live Site URL: [Web Site]()
 
 ## My process
 
