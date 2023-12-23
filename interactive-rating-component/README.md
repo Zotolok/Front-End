@@ -34,8 +34,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [GitHub - CSS]()
-- Live Site URL: [Web Site]()
+- Solution URL: [GitHub - CSS](https://github.com/Zotolok/Front-End/blob/54737d37704b4852336427ec376dba118a52e274/interactive-rating-component/CSS/styles.css)
+- Live Site URL: [Web Site](https://interactive-reacting-component.vercel.app/index.html)
 
 ## My process
 
