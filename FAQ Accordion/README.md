@@ -39,8 +39,9 @@ This is a solution to the [FAQ Accordion challenge on Frontend Mentor](). Fronte
 
 ### Links
 
-- Solution URL: [GitHub - CSS]()
-- Live Site URL: [Web Site]()
+- CSS Solution: [GitHub - CSS](https://github.com/Zotolok/Front-End/blob/adda05b44614d695275338c0dd5668e7f1012ca0/FAQ%20Accordion/CSS/styles.css)
+- JS Solution: [GitHub - JS](https://github.com/Zotolok/Front-End/blob/adda05b44614d695275338c0dd5668e7f1012ca0/FAQ%20Accordion/JS/buttonLogic.js)
+- Live Site URL: [Web Site](https://658ceabc6b80c865f49a7def--lucent-melomakarona-b871ab.netlify.app/)
 
 ## My process
 
@@ -83,6 +84,7 @@ At the beginning, I wanted to show the answers by using the "display" property i
 - [Google Fonts](https://fonts.google.com/) - This helped me to change the default fonts.
 - [Responsinator](http://www.responsinator.com/) - This helped me to see how the page looked like in different devices.
 - [Vercel](https://vercel.com/home) - This web site helped me to upload my static project to the cloud for free.
+- [Netlify](https://www.netlify.com/) - This web site helped me to upload my static project to the cloud for free.
 - [max-width explanation](https://www.youtube.com/watch?v=8OG0PJkd6-w) - This youtuber explained me the difference between max and min width.
 
 
