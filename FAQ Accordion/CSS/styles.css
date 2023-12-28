@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&family=Hanken+Grotesk:wght@500;700;800&family=Outfit:wght@100;300;400;500;600&family=Overpass:wght@400;700&family=Playfair+Display&family=Work+Sans:wght@400;600;700&family=Ysabeau+SC:wght@200&display=swap');
+
+body{
+    background-image: url("/images/background-pattern-desktop.svg");
+    background-repeat: no-repeat;
+    background-color: hsl(275, 100%, 97%);
+    /*border: 1px hsl(216,12%,8%) solid;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 0 20px 0;
+
+    font-family: 'Work Sans', sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+article{
+    /*border: 1px hsl(216,12%,8%) solid;*/
+    padding: 35px 30px 35px 30px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 12px 10px hsla(292, 16%, 49%, 0.2), 
+                0px 12px 10px hsla(292, 16%, 49%, 0.2);
+
+}
+#FAQs{
+    width: 600px;
+}
+
+#Title{
+    /*border: 1px hsl(216,12%,8%) solid;*/
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+#Title img{
+    margin-right: 15px;
+    width: 32px;
+    height: 32px;
+}
+
+#Title h1{
+    margin: 0;
+}
+
+article img{
+    width: 30px;
+    height: 30px;
+}
+section{
+    /*border: 1px hsl(216,12%,8%) solid;*/
+    margin-top: 20px;
+}
+
+.Question{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+h2{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+footer{
+    /*border: 1px hsl(216,12%,8%) solid;*/
+    margin-top: 50px;
+}
+footer h6{
+    margin: 0;
+}
+
+.Info{
+    display: none;
+}
+
+
+.PlusMinus:hover{
+    cursor: pointer;
+}
+
+@media screen and (max-width:800px){
+    #FAQs{
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:550px){
+    #FAQs{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:400px){
+    body{
+        background-image: url("/images/background-pattern-mobile.svg");
+    }
+    #FAQs{
+        width: 250px;
+    }
+}
