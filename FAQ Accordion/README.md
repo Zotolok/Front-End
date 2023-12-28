@@ -76,7 +76,7 @@ In the last code, "max-width" means the maximum size needed to make a change in 
 
 ### Continued development
 
-At the beginning, I wanted to show the answers by using the "display" property in JS. Though, I noticed that, despite I wanted to change the display to "none" or "block" with JS, every class with "display: none" in CSS will stay like that. So, I use another logic using a variable that changes between zero and one depending when the user clicks the buttons to see the answers. This causes that soetimes the user has to double click the button. I'll try to change it in further updates.  
+At the beginning, I wanted to show the answers by using the "display" property in JS. Though, I noticed that, despite I wanted to change the display to "none" or "block" with JS, every class with "display: none" in CSS will stay like that. So, I use another logic using a variable that changes between zero and one depending on when the user clicks the buttons to see the answers. This causes that sometimes the user has to double click the button. I'll try to change it in further updates.  
 
 
 ### Useful resources
