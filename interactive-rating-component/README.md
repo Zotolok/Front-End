@@ -53,8 +53,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### What I learned
 
-This is just a static web page built with HTML and CSS. Though, my major learnings here were the correct implementation (or what I think it is) of Flexbox and CSS Grid to organize the elements in the way I wanted; a better use of the media queries; and I learned a new way to center a div label in the center of a page.
-
 This is the first web page I upload using JS along with HTML and CSS. This page asks the user to give a score of an imaginary survey; it doesn't use Data Bases or something like that. For saving the answer when going to another page I used "localStorage" property and put directly the JS code in the HTML of the next page at the bottom. I had lots of troubles at the beginning with this part because I just wrote the source file in the "script" label (<script>) in both HTML pages and put all the code in the same JS file.
 
 This time, I won't write code snippets. But, if you ever want to change something of another page from your index without involving Data Bases (maybe to practice), I suggest to use the local storage property in your JS file for your index and catch the element you want to change of your other page inside the "script" label of that HTML.
